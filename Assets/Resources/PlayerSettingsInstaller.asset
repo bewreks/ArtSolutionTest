@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb775b91490a94d1fbfd7d26f945d7b3, type: 3}
+  m_Name: PlayerSettingsInstaller
+  m_EditorClassIdentifier: 
+  playerSettings:
+    movementSpeed: 0.1
+    rotationSpeed: 0.001
+  unityPlayerSettings:
+    playerPrefab: {fileID: 7101987262843123004, guid: e11131b56e9af4d9aae547d88dd5f877, type: 3}
